@@ -5,41 +5,35 @@
 #### By _**Judah and Calvin**_
 
 ## Description
+_Library is a simple app built in Ruby that allows emulates a library inventory system. It is built using PSQL and Sinatra for it's routing._
 
-__
-
-## Specs
-| Behavior  | Input  | Output  |
-|---|---|---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Clone from GitHub_
+* _Navigate to the projet folder_
+* _run the commands "createdb [DATABASE NAME]
+psql [DATABASE_NAME] < database_backup.sql
+createdb -T [DATABASE NAME] [TEST DATABASE NAME]" _
+* _Run the command "ruby app.rb"_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+
 
 ## Known Bugs
 
-__
+_Currently there are no known bugs_
 
 ## Support and contact details
 
-__
+_For questions comments and concerns, email me at calvinp003@gmail.com_
 
 ## Technologies Used
 
-__
-
+* _Ruby_
+* _Sinatra_
+* _PSQL_
 ### License
 
-**
+*Licensed Under MIT*
 
-Copyright (c) 2019 **_Judah and Calvin_**
+Copyright (c) 2020 **_Judah and Calvin_**
